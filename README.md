@@ -14,7 +14,7 @@ How to use it? <br/>
 5. User can choose manhatten or euclidean distance to calculate the centroid
 <br/>
 Enjoy visualizer!
-<br/>
+
 ## [See it live](https://saurabh641444.github.io/K-means-clustering-visualization.github.io/) :)
-<br/>
+
 ## [You can watch my Youtube video] (https://www.youtube.com/watch?v=DDIDKFP8L6g)
